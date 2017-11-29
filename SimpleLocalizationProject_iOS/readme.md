@@ -2,5 +2,5 @@
 </h4>
 
 
-Tutorial Avaiable Here::
+Complete Tutorial Avaiable Here::
 https://medium.com/@lalaovu/localization-tutorial-for-ios-project-2ec518699dc9
