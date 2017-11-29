@@ -1,0 +1,13 @@
+/* 
+  Localized.strings
+  SimpleLocalizationProject_iOS
+
+  Created by TapStar_sk on 11/29/17.
+  Copyright © 2017 TapStar_sk. All rights reserved.
+*/
+
+
+"Key_ButtonTitle" = "Press!";
+"Key_popUpTitle" = "Alert!";
+"Key_popUpMessage" = "Hello %@ Alert";
+"Key_popUpExitTitle" = "Done!";

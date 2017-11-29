@@ -1,0 +1,12 @@
+/* 
+  Localized.strings
+  SimpleLocalizationProject_iOS
+
+  Created by TapStar_sk on 11/29/17.
+  Copyright © 2017 TapStar_sk. All rights reserved.
+*/
+
+"Key_ButtonTitle" = "Нажмите!";
+"Key_popUpTitle" = "Предупреждение!";
+"Key_popUpMessage" = " Здравствуйте %@ Предупреждение!";
+"Key_popUpExitTitle" = "Готово!";
