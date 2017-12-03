@@ -4,3 +4,6 @@
 
 Complete Tutorial Avaiable Here::
 https://medium.com/@lalaovu/localization-tutorial-for-ios-project-2ec518699dc9
+
+Another good Tutorial on iOS Localization::
+https://medium.com/lean-localization/ios-localization-tutorial-938231f9f881
